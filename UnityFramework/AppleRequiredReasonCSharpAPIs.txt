@@ -1,0 +1,5 @@
+File timestamp APIs usage:
+	"System.IO.File::GetLastWriteTime" used in assemblies:		Assembly-CSharp
+		System.IO.Compression.FileSystem
+	"System.IO.File::GetLastWriteTimeUtc" used in assemblies:		Assembly-CSharp
+	"System.IO.Directory::GetLastWriteTime" used in assemblies:		Assembly-CSharp
